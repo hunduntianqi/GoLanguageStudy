@@ -1,2 +1,2 @@
 # GoLanguageStudy
-Learning notes
+Golang学习笔记
